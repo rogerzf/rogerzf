@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rogerzf
 - 👀 I’m interested in ... python, SQL and Kotlin
-- 🌱 I’m currently learning ... Kotlin
+- 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... rogerzf@live.com
 
